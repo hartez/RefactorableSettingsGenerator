@@ -4,6 +4,7 @@
     <Identity Id="fc8167ea-ea1d-494c-bdef-25ecb997f8e8" Version="1.0" Language="en-US" Publisher="E.Z. Hart" />
     <DisplayName>Refactorable Settings Generator</DisplayName>
     <Description xml:space="preserve">This extension allows you to replace the default SettingsSingleFileGenerator with a version which generates more refactoring-friendly code.This ex</Description>
+    <MoreInfo>https://github.com/hartez/RefactorableSettingsGenerator</MoreInfo>
     <License>license.txt</License>
     <Tags>code generation, settings</Tags>
   </Metadata>
