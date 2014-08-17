@@ -10,7 +10,7 @@ I've only built this for (and tested it on) Visual Studio 2013 Professional. If 
 
 ### Installation
 
-This **plugin/extension** is available in the [Visual Studio Gallery]. 
+This extension is available in the [Visual Studio Gallery]. 
 
 
 
@@ -18,4 +18,4 @@ This **plugin/extension** is available in the [Visual Studio Gallery].
 
 [Refactorable Settings]: 
 
-[Visual Studio Gallery]:
+[Visual Studio Gallery]: http://visualstudiogallery.msdn.microsoft.com/3776ead6-7639-4d89-b85b-6682865a7f0d
