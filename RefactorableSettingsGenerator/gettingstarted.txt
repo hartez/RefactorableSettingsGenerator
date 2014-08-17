@@ -1,0 +1,5 @@
+﻿Usage:
+
+	In the properties page of your '.settings.' file, change the value for "Custom Tool" from 'SettingsSingleFileGenerator' to 'RefactorableSettingsGenerator'. 
+
+	See https://github.com/hartez/RefactorableSettingsGenerator for more information.
