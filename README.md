@@ -16,6 +16,6 @@ This extension is available in the [Visual Studio Gallery].
 
 [Application Settings]: http://msdn.microsoft.com/en-us/library/0zszyc6e(v=vs.110).aspx
 
-[Refactorable Settings]: http://traceur-llc.com/blog/?category=refactorable+settings
+[Refactorable Settings]: http://codewise-llc.com/blog/?category=refactorable+settings
 
 [Visual Studio Gallery]: http://visualstudiogallery.msdn.microsoft.com/3776ead6-7639-4d89-b85b-6682865a7f0d
