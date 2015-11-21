@@ -1,6 +1,6 @@
 ﻿using System.IO;
 using NUnit.Framework;
-using TraceurLLC.RefactorableSettingsGenerator;
+using CodeWiseLLC.RefactorableSettingsGenerator;
 
 namespace RefactorableSettingsGenerator.Tests
 {

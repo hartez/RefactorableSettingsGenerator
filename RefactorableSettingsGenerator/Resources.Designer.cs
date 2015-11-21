@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace TraceurLLC.RefactorableSettingsGenerator {
+namespace CodeWiseLLC.RefactorableSettingsGenerator {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace TraceurLLC.RefactorableSettingsGenerator {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("TraceurLLC.RefactorableSettingsGenerator.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("CodeWiseLLC.RefactorableSettingsGenerator.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

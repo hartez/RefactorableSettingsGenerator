@@ -2,7 +2,7 @@
 // MUST match guids.h
 using System;
 
-namespace TraceurLLC.RefactorableSettingsGenerator
+namespace CodeWiseLLC.RefactorableSettingsGenerator
 {
     static class GuidList
     {

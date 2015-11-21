@@ -10,9 +10,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("RefactorableSettingsGenerator")]
 [assembly: AssemblyDescription("Visual Studio Extension to generate refactoring-friendly settings code")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Traceur LLC")]
+[assembly: AssemblyCompany("CodeWise LLC")]
 [assembly: AssemblyProduct("RefactorableSettingsGenerator")]
-[assembly: AssemblyCopyright("2014")]
+[assembly: AssemblyCopyright("2014-2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]   
 [assembly: ComVisible(false)]     
@@ -29,8 +29,8 @@ using System.Runtime.InteropServices;
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
 
-[assembly: AssemblyVersion("1.0.0.0")]
-[assembly: AssemblyFileVersion("1.0.0.0")]
+[assembly: AssemblyVersion("1.0.1.0")]
+[assembly: AssemblyFileVersion("1.0.1.0")]
 
 
 

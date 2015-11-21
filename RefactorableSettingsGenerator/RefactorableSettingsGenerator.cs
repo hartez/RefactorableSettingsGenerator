@@ -10,7 +10,7 @@ using Microsoft.VisualStudio.Shell.Interop;
 using VSLangProj80;
 using IServiceProvider = Microsoft.VisualStudio.OLE.Interop.IServiceProvider;
 
-namespace TraceurLLC.RefactorableSettingsGenerator
+namespace CodeWiseLLC.RefactorableSettingsGenerator
 {
     [ComVisible(true)]
     [Guid(GuidList.guidRefactorableSettingsGeneratorString)]

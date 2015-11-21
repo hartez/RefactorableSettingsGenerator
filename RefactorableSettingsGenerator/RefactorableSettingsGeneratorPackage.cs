@@ -3,7 +3,7 @@ using System.Globalization;
 using System.Runtime.InteropServices;
 using Microsoft.VisualStudio.Shell;
 
-namespace TraceurLLC.RefactorableSettingsGenerator
+namespace CodeWiseLLC.RefactorableSettingsGenerator
 {
     /// <summary>
     /// This is the class that implements the package exposed by this assembly.

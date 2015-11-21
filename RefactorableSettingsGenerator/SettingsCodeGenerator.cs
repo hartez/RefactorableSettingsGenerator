@@ -5,7 +5,7 @@ using System.Reflection;
 using System.Text;
 using System.Xml;
 
-namespace TraceurLLC.RefactorableSettingsGenerator
+namespace CodeWiseLLC.RefactorableSettingsGenerator
 {
     public class SettingsCodeGenerator
     {
