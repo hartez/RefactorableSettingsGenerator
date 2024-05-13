@@ -14,8 +14,8 @@ This extension is available in the [Visual Studio Gallery].
 
 
 
-[Application Settings]: http://msdn.microsoft.com/en-us/library/0zszyc6e(v=vs.110).aspx
+[Application Settings]: https://msdn.microsoft.com/en-us/library/0zszyc6e(v=vs.110).aspx
 
-[Refactorable Settings]: http://codewise-llc.com/blog/?category=VS+Refactorable+Settings
+[Refactorable Settings]: https://codewise-llc.com/blog/?category=VS+Refactorable+Settings
 
-[Visual Studio Gallery]: http://visualstudiogallery.msdn.microsoft.com/3776ead6-7639-4d89-b85b-6682865a7f0d
+[Visual Studio Gallery]: https://marketplace.visualstudio.com/items?itemName=ElijaHart.RefactorableSettingsGenerator
